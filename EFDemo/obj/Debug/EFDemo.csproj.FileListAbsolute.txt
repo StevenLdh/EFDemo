@@ -7,3 +7,6 @@ E:\project\Test\EFDemo\EFDemo\bin\Debug\zh-Hans\EntityFramework.resources.dll
 E:\project\Test\EFDemo\EFDemo\obj\Debug\EFDemo.csprojResolveAssemblyReference.cache
 E:\project\Test\EFDemo\EFDemo\obj\Debug\EFDemo.exe
 E:\project\Test\EFDemo\EFDemo\obj\Debug\EFDemo.pdb
+F:\MyGitProject\EF\EFDemo\bin\Debug\EFDemo.exe.config
+F:\MyGitProject\EF\EFDemo\obj\Debug\EFDemo.exe
+F:\MyGitProject\EF\EFDemo\obj\Debug\EFDemo.pdb
