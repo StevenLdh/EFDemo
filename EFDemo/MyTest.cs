@@ -8,6 +8,8 @@ namespace EFDemo
 {
     public class MyTest
     {
-        private string Username { get;set;}
+        private string Username { get; set; }
+        private string Password { get; set; }
+
     }
 }
