@@ -11,5 +11,8 @@ namespace EFDemo
         private string Username { get; set; }
         private string Password { get; set; }
 
+        Action<object> b = (target) => { Console.WriteLine(target.GetType()); };
+        Action<UserInfo> d = b;
+        d(new UserInfo());
     }
 }
